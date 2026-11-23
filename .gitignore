@@ -1,0 +1,15 @@
+__pycache__/
+.pytest_cache/
+.venv/
+.demo-deps/
+.DS_Store
+.env
+*.pem
+*.key
+*.safetensors
+*.parquet
+02-Multimodal/phase1-assistant/checkpoints/
+02-Multimodal/phase1-assistant/data/raw/
+02-Multimodal/phase1-assistant/data/processed/
+02-Multimodal/phase1-assistant/data/cases/
+02-Multimodal/phase1-assistant/runs/
